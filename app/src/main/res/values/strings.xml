@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 3</string>
+    <string name="submit">submit</string>
+    <string name="password">password</string>
+    <string name="user_name">user name</string>
+    <string name="login">login</string>
+</resources>
