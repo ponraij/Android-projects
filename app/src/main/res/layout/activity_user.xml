@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminActivity"
+    android:background="#588157"
+    >
+
+    <TextView
+        android:id="@+id/hello"
+        android:layout_marginTop="300dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Hello"
+        android:alpha="0.6"
+        android:textSize="60sp"
+        android:textAlignment="center"
+        android:textColor="#081c15"/>
+
+    <TextView
+        android:id="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/user"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:layout_below="@+id/hello"
+        android:alpha="0.7"
+        android:textColor="#003e1f"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:text="welocome for this new page"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_below="@+id/user"
+        android:textColor="#faf9f9"
+        android:alpha="0.6"/>
+
+
+</RelativeLayout>
