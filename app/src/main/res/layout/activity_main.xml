@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00A8CD"
+    android:background="#588157"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -83,7 +83,7 @@
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:radius="200dp"
-        android:backgroundTint="#005669"
+        android:backgroundTint="#344e41"
         android:layout_marginLeft="100dp"
         android:layout_marginRight="100dp"
         android:layout_marginTop="20dp"
